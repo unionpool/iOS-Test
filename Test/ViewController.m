@@ -19,7 +19,7 @@
     [super viewDidLoad];
 	// Do any additional setup after loading the view, typically from a nib.
     // test test test
-    // nono
+    // nono???
 }
 
 - (void)didReceiveMemoryWarning
